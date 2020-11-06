@@ -30,6 +30,10 @@ Developed a Hugo website with Firebase hosting to showcase the projects and work
 Built an Android application with Bluetooth connectivity to a microcontroller which emitted scents.
 The team was managed through Kan-Ban system Trello.
 
+**GRIDS Stub**
+A template Android application was developed to provide a kickstart for interested students.
+The app provided two main functionalities, a formula calculator and an interpolator.
+
 References:
 - [GRIDS.web.ua.pt](http://grids.web.ua.pt/index.php/projects/grids_apps/)
 
@@ -68,7 +72,7 @@ The task was scheduled to run at a given time prior to lunch with a **Crond** co
 ### GRIDS CODE19 Matlab
 
 The challenge was to solve a travelling salesman problem in which the algorithm
-had to find the shortest distance to travel.
+had to find the shortest distance to travel. This workshop was part of the CodeWeek initiative.
 
 
 ### GRIDS 4x4 - This is very APPealing
@@ -89,6 +93,7 @@ user channels and displayed a 3D map of the values in the room.
 
 With the Google Colab platform, the students were told how to compute 
 the pi value using 3 different algorithms.
+
 
 
 ## Education
