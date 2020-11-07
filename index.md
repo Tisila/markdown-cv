@@ -23,11 +23,11 @@ to build an enhanced calculator with Universal Windows Platform in Visual Basic.
 I provided manual tests and unit-tests for the application using MSTest framework.
 
 **[GRIDSApps.tk](https://gridsapps.tk/)**
-Developed a Hugo website with Firebase hosting to showcase the projects and workshops content of the GRIDS Research Group, of Universidade de Aveiro.
+Developed a Hugo website with Firebase hosting to showcase the projects and workshops content of the GRIDS Research Group, of University of Aveiro.
 
 **Project Smells-A-Lot**
 Built an Android application with Bluetooth connectivity to a 3D printed box with microcontroller which emitted scents.
-The goal was to emit specific conforting scents towards an autistic child to provide a stress relief button.
+The goal was to emit specific comforting scents towards an autistic child to provide a stress relief button.
 This tool was used further investigations at the University of Aveiro Psychology labs.
 The team was managed through Kanban system Trello.
 
@@ -42,15 +42,15 @@ References: [GRIDS.web.ua.pt](http://grids.web.ua.pt/index.php/projects/grids_ap
 
 **[MECSOL](https://play.google.com/store/apps/details?id=tk.rlta.mecsol)**
 Created an Android application to boost the confirmation of solid mechanics problem solutions as well as it's reliability.
-The app was deployed to Google Play and is the recomended tool by teachers of solid mechanics to validate class problem's results.
+The app was deployed to Google Play and is the recommended tool by teachers of solid mechanics to validate class problem's results.
 
 **[Cookidump](https://github.com/auino/cookidump)**
 Built a new solution for an existing repository which enables offline access to recipes hosted on Bimby/Termomix website.
-The solution was based on scraping the website with Selenium's chromedriver.
+The solution was based on scraping the website with Selenium's test tools.
 
 **VPN-OMV Multi server setup**
 Deployed and managed 3 Debian servers in different locations with [OpenMediaVault](https://www.openmediavault.org/) installed.
-This provided Network Atached Storage for personal use locally and remotely through a Wireguard server with dynamic DNS configured.
+This provided Network Attached Storage for personal use locally and remotely through a Wireguard server with dynamic DNS configured.
 Each server performs an off-site backup through Rsync to another server in the group.
 
 **[FSModLoader](https://github.com/Tisila/farming-simulator-mod-loader)**
@@ -59,7 +59,7 @@ in Python with Requests library to web scrape a set of given URLs to the mod web
 of a game to download the mods as well as keeping them updated.
 
 **[Gitea](https://gitea.io/en-us/)** Hosted a Git docker image to host local private repositories also accessible remotely through port forwarding with dynamic DNS configuration.
-This rendered a usefull combination to develop bigger team projects without paid feature restrictions from bigger git providers.
+This rendered a useful combination to develop bigger team projects without paid feature restrictions from bigger git providers.
 
 **ArdTable**
 Designed and created a 3D printed, two axis vice in a university signature.
@@ -71,12 +71,11 @@ The task was scheduled to run at a given time prior to lunch with a Crond comman
 This tool provided lunch menu descriptions to students through a [Pushbullet channel](https://www.pushbullet.com/channel?tag=rlta) to which they could subscribe.
 
 
-<!-- mostrar workshops a vários público-alvo -->
 ## Lectured Workshops
 
-All lectures below were lectured by me individualy or together with GRIDS colleagues to groups of several backgrounds and age ranges.
+All lectures below were lectured by me individually or together with GRIDS colleagues to groups of several backgrounds and age ranges.
 Learned to manage enrollments through Google Forms with in-house built custom functions,
-to send personalized emails in bulk, ir order to provide workshop details.
+to send personalized emails in bulk, in order to provide workshop details.
 Along the workshops, control over the content access to attendees relied on website Javascript and Firebase (Cloud Storage and Cloud Firestore).
 
 
@@ -117,7 +116,7 @@ I learned how to access and query a database.
 
 ## Education
 
-Student at Universidade de Aveiro in Mechanical Engineering Integrated Masters course.
+Student at University of Aveiro in Mechanical Engineering Integrated Masters course.
 
 
 
