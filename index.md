@@ -49,7 +49,7 @@ Built a new solution for an existing repository which enables offline access to 
 The solution was based on scraping the website with Selenium's chromedriver.
 
 **VPN-OMV Multi server setup**
-Deployed and managed 3 Debian servers in different locations with OpenMediaVault installed.
+Deployed and managed 3 Debian servers in different locations with [OpenMediaVault](https://www.openmediavault.org/) installed.
 This provided Network Atached Storage for personal use locally and remotely through a Wireguard server with dynamic DNS configured.
 Each server performs an off-site backup through Rsync to another server in the group.
 
@@ -80,15 +80,13 @@ to send personalized emails in bulk, ir order to provide workshop details.
 Along the workshops, control over the content access to attendees relied on website Javascript and Firebase (Cloud Storage and Cloud Firestore).
 
 
-### GRIDS CODE19 Matlab
-
+**GRIDS CODE19 Matlab**
 The challenge was to solve a travelling salesman problem in which the algorithm
 had to find the shortest distance to travel. This workshop was lectured to all of
 Aveiro University campus as part of the [CodeWeek](https://codeweek.eu/) initiative.
 
 
-### GRIDS 4x4 - This is very APPealing
-
+**GRIDS 4x4 - This is very APPealing**
 In this workshop, mechanical engineering students had to develop their own remote control, in order to send messages through
 an internet of things protocol called MQTT over
 the local network, where a server subscribed to all the users channels and
@@ -97,8 +95,7 @@ Realized that a team built on trust can provide great results.
 <!-- is this ok? -->
 
 
-### GRIDS 4x4 - Going mobile
-
+**GRIDS 4x4 - Going mobile**
 The attendees developed an app to monitor the light sensor measured intensity.
 This value was then sent to through MQTT to a broker where a client subscribed to all
 user channels and displayed a 3D map of the values in the room.
@@ -106,15 +103,13 @@ The attendees were mechanical engineering students.
 Deep dived on the internet of things communications and understood how to access Android devices sensors.
 
 
-### GRIDS 4x4 Does the Python byte?
-
+**GRIDS 4x4 Does the Python byte?**
 With the Google Colab platform, the mechanical engineering students were taught how to compute 
 the pi value using 3 different algorithms using Python.
 I understood that creating your solution provides greater insight about the problem.
 
 
-### GRIDS Development Beginning of Android Applications
-
+**GRIDS Development Beginning of Android Applications**
 Taught GRIDS Research group teachers and researchers how to develop a contacts android application with database access.
 Each attendee created their own database (Google FusionTables) and built the app that was a viewer/manager of the stored online data. 
 I learned how to access and query a database.
