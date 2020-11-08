@@ -3,7 +3,7 @@ layout: cv
 title: Tiago Ávila's CV
 ---
 # Tiago Manuel da Silva Ávila
-Redundant programmer, IT enthusiast, entrepreneur, problem solver.
+IT enthusiast, entrepreneur, problem solver.
 
 <div id="webaddress">
 <a href="mailto:tiagoavila44@gmail.com">tiagoavila44@gmail.com</a>
@@ -18,31 +18,31 @@ Redundant programmer, IT enthusiast, entrepreneur, problem solver.
 ### GRIDS-Apps
 
 **Project Reach**
-Collaborated with a team of developers with aid of Kanban and Slack,
+Collaborated with a team of developers, with aid of Kanban and Slack,
 to build an enhanced calculator with Universal Windows Platform in Visual Basic.
 I provided manual tests and unit-tests for the application using MSTest framework.
 
 **[GRIDSApps.tk](https://gridsapps.tk/)**
-Developed a Hugo website with Firebase hosting to showcase the projects and workshops content of the GRIDS Research Group, of the University of Aveiro.
+Developed a Hugo website with Firebase hosting, to showcase the projects and workshops content of the GRIDS Research Group (University of Aveiro).
 
 **Project Smells-A-Lot**
-Built an Android application with Bluetooth connectivity to a 3D printed box with a microcontroller which emitted scents.
-The goal was to emit specific comforting scents towards an autistic child to provide a stress relief button.
+Built an Android application with Bluetooth connectivity to a microcontroller which emitted scents.
+The project's goal was to emit specific comforting scents towards an autistic child to provide a stress relief button.
 This tool was used for further investigations at the University of Aveiro Psychology labs.
-The team was managed through a Kanban system Trello.
+The team worked in Kanban using Trello.
 
 **GRIDS Stub**
 A template for Android applications developed to provide a kickstart for interested students.
-Presented at SRGx, a 5-minute pitch showcasing the advances being done in the GRIDS Research Group.
-Many mechanical engineering department students used the template to build their applications.
+Presented in a 5-minute pitch showcasing the advances being done in the GRIDS Research Group.
+Mechanical engineering students used the template to build their applications.
 
 References: [GRIDS.web.ua.pt](http://grids.web.ua.pt/index.php/projects/grids_apps/)
 
 ### Personal
 
 **[MECSOL](https://play.google.com/store/apps/details?id=tk.rlta.mecsol)**
-Created an Android application to boost the confirmation of solid mechanics problem solutions as well as its reliability.
-The app was deployed to Google Play and is the recommended tool by teachers of solid mechanics to validate the class problem's results.
+Created an Android application to boost the validation of solid mechanics problems.
+The app was deployed to Google Play and is the recommended tool by Aveiro Solid Mechanics' Professors to validate the class problem's results.
 
 **[Cookidump](https://github.com/auino/cookidump)**
 Built a new solution for an existing repository that enables offline access to recipes hosted on Bimby/Termomix website.
@@ -50,25 +50,24 @@ The solution was based on scraping the website with Selenium's test tools.
 
 **VPN-OMV Multi-server setup**
 Deployed and managed 3 Debian servers in different locations with [OpenMediaVault](https://www.openmediavault.org/) installed.
-This provided Network Attached Storage for personal use locally and remotely through a Wireguard server with dynamic DNS configured.
+This provided Network Attached Storage, for personal use, accessible locally and remotely through a Wireguard server with dynamic DNS configured.
 Each server performs an off-site backup through Rsync to another server in the group.
 
 **[FSModLoader](https://github.com/Tisila/farming-simulator-mod-loader)**
-Developed a mod management program 
-in Python with Requests library to web scrape a set of given URLs to the mod webpage
-of a game to download the mods as well as keeping them updated.
+Developed a mod management program to web scrape a set of given URLs of a game,
+in order to both download and keep them updated.
+The program was created to ease the otherwise, manual task.
+The solution was based in Python with Requests library.
 
-**[Gitea](https://gitea.io/en-us/)** Hosted a Git docker image to host local private repositories also accessible remotely through port forwarding with dynamic DNS configuration.
-This rendered a useful combination to develop bigger team projects without paid feature restrictions from bigger git providers.
-
-**ArdTable**
-Designed and created a 3D printed, two-axis vice in a university signature.
-The vice had incremental encoder readings shown through a microcontroller with LCD.
+**[Gitea](https://gitea.io/en-us/)**
+Deployed a Git docker image to host local private repositories. These repositories also accessible remotely through port forwarding with dynamic DNS configuration.
+This rendered an in-house useful tool to develop big team projects.
 
 **[MenUA](https://github.com/Tisila/menua)**
-Developed program in Python to deliver the canteens lunch menu, requested from UA API, and delivered through PushBullet API to the user's smartphones.
-The task was scheduled to run at a given time before lunch with a Crond command in a Debian server.
-This tool provided lunch menu descriptions to students through a [Pushbullet channel](https://www.pushbullet.com/channel?tag=rlta) to which they could subscribe.
+Developed a program in Python to deliver the canteens lunch menu to students,
+through a Pushbullet channel to which they could subscribe on their smartphones.
+The solution requested the menus from UA API and delivered it though Pushbullet API.
+The task was scheduled to run at a given time with a Crond command in a Debian server.
 
 
 ## Lectured Workshops
