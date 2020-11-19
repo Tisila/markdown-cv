@@ -7,7 +7,7 @@ IT enthusiast, entrepreneur, problem solver.
 
 <div id="webaddress">
 <a href="mailto:tiagoavila44@gmail.com">tiagoavila44@gmail.com</a>
-| <a href="https://www.linkedin.com/in/tiagoavila44/">My LinkedIN page</a>
+| <a href="https://www.linkedin.com/in/tiagoavila44/">https://www.linkedin.com/in/tiagoavila44/</a>
 | <a href="tel:+351?????????">+351-??-??-???-??</a>
 </div>
 
@@ -68,49 +68,42 @@ Developed a program in Python to deliver the canteens lunch menu to students,
 through a Pushbullet channel to which they could subscribe on their smartphones.
 The solution requested the menus from UA API and delivered it though Pushbullet API.
 The task was scheduled to run at a given time with a Crond command in a Debian server.
+Instead waiting for the browser to load the details
+in short decision moments, the information is previously served in a style that is easy to read.
 
 
 ## Lectured Workshops
 
 All lectures below were lectured by me individually or together with GRIDS colleagues to groups of several backgrounds and age ranges.
-Learned to manage enrollments through Google Forms with in-house built custom functions,
+
+Through this, I learned to manage enrollments through Google Forms with in-house built custom functions,
 to send personalized emails in bulk, to provide workshop details.
-Along with the workshops, control over the content access to attendees relied on website Javascript and Firebase (Cloud Storage and Cloud Firestore).
+Along these workshops, attendees access control to content relied in house website Javascript and Firebase (Cloud Storage and Cloud Firestore).
 
 
 **GRIDS CODE19 Matlab**
-The challenge was to solve a traveling salesman problem in which the algorithm
-had to find the shortest distance to travel. This workshop was lectured to all of
+This workshop was lectured to all of
 Aveiro University campus as part of the [CodeWeek](https://codeweek.eu/) initiative.
 
 
 **GRIDS 4x4 - This is very APPealing**
-In this workshop, mechanical engineering students had to develop their remote control, to send messages through
-an internet of things protocol called MQTT over
-the local network, where a server subscribed to all the users' channels and
-moved their players accordingly. The server was running an in-house version of Bomberman.
-Realized that a team built on trust can provide great results. 
-<!-- is this ok? -->
+In this workshop, mechanical engineering students developed their remote control, to send messages through
+an internet of things protocol (MQTT) over
+the local network. The server was running an in-house version of Bomberman.
+Success of session based on collaborative work.
 
 
 **GRIDS 4x4 - Going mobile**
-The attendees developed an app to monitor the light sensor measured intensity.
-This value was then sent through MQTT to a broker where a client subscribed to all
-user channels and displayed a 3D map of the values in the room.
-The attendees were mechanical engineering students.
+The attendees, mechanical engineers developed an app to monitor the light sensor measured intensity.
 Deep dived on the internet of things communications and understood how to access Android devices sensors.
 
 
 **GRIDS 4x4 Does the Python byte?**
-With the Google Colab platform, the mechanical engineering students were taught how to compute 
-the pi value using 3 different algorithms using Python.
-I understood that creating your solution provides greater insight into the problem.
+With the Google Colab platform, the mechanical engineering students were introduced to Python programming.
 
 
 **GRIDS Development Beginning of Android Applications**
-Taught GRIDS Research group teachers and researchers how to develop a contacts android application with database access.
-Each attendee created their database (Google FusionTables) and built the app that was a viewer/manager of the stored online data. 
-I learned how to access and query a database.
+Taught GRIDS Research group members how to develop an android application with database access.
 
 
 ## Education
@@ -122,6 +115,7 @@ Student at the University of Aveiro in Mechanical Engineering Integrated Masters
 ## Languages
 
 Portuguese spoken natively.
+
 Fluent in English spoken as second language equivalent to C1 level.
 
 
