@@ -121,9 +121,18 @@ Fluent in English spoken as second language equivalent to C1 level.
 
 
 ## Other skills
-Communication skills, Team management, Entertainment, and Teambuilding
-(play piano and bass in some garage bands),
-Morse code communication, CAD, Linux user, Open-Source advocate.
+
+### Communication
+- Skills adapting to several audiences
+- Team management
+- Morse code
+- Team work
+
+### Miscelaneous
+- Public performing (play piano and bass in some garage bands)
+- CAD
+- Linux user
+- Geocaching enigma solver
 
 
 
