@@ -136,5 +136,6 @@ Fluent in English spoken as second language equivalent to C1 level.
 
 
 
-### Footer
+<!--### Footer
 Last updated: November 2020
+-->
